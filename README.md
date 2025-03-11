@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice/LABURL)
+  - [Active Directory Home Lab](https://github.com/sethusandeep1/ActiveDirectoryLab)
   - [Hello World!](https://github.com/joshmadakor1/Algorithms-Practice/LABURL)
 
 <h2>📺 Certifications</h2>
