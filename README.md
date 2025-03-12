@@ -9,8 +9,8 @@
 <h2>📺 Certifications</h2>
 
 - [Cybersecurity Essentials](https://www.netacad.com/certificates?issuanceId=de037ff0-1251-4e59-9cdb-f3795f274965)
-- [CCNAv7: Introduction to Networks](https://www.netacad.com/certificates?issuanceId=494de3c2-92e7-442e-8ea1-1d33270ba27a)
-- [CCNAv7: Switching, Routing, and Wireless Essentials](https://www.netacad.com/certificates?issuanceId=581d4065-6b03-4855-aa6a-6ed8307d4899)
+- [CCNAv7: Introduction to Networks](https://www.credly.com/badges/7c6df44e-5b0a-4d4f-9cdb-0b45df3c8261/public_url)
+- [CCNAv7: Switching, Routing, and Wireless Essentials](https://www.credly.com/badges/2ba3f910-e148-4814-8bc3-73d3ba6954dd/public_url)
 - [Partner: PCAP - Programming Essentials in Python](https://www.netacad.com/certificates?issuanceId=7ae036c9-6a06-4982-8dbd-8fc1426adbd3)
   
 
