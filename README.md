@@ -2,8 +2,7 @@
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Live-Attack-Simulation-in-Azure-SOC-using-Microsoft-Sentinel](https://github.com/sethusandeep1/Live-Attack-Simulation-in-Azure-SOC-using-Microsoft-Sentinel)
+  - [Live Attack Simulation in Azure SOC using Microsoft Sentinel](https://github.com/sethusandeep1/Live-Attack-Simulation-in-Azure-SOC-using-Microsoft-Sentinel)
   - [Hello World!](https://github.com/joshmadakor1/Algorithms-Practice/LABURL)
 
 <h2>📺 Certifications</h2>
